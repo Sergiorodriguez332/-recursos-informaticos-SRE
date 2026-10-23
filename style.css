@@ -1,2 +1,50 @@
-body { font-family: Arial, sans-serif; margin: 2rem; background: #f4f4f4; }
-h1 { color: #2c3e50; }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: lightgray;
+}
+
+.pare {
+  background-color: lightblue;
+}
+
+.iso {
+  background-color: lightgreen;
+}
+
+.ede {
+  background-color: orange;
+}
+
+.lmsgi {
+  background-color: plum;
+}
+
+.gbd {
+  background-color: lightcoral;
+}
+
+.ipe1 {
+  background-color: khaki;
+}
+
+.ing {
+  background-color: lightpink;
+}
+
+.fhw {
+  background-color: lightsalmon;
+}
+
+.pi1asir {
+  background-color: lightcyan;
+}
